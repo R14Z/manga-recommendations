@@ -1,0 +1,99 @@
+.welcome {
+    position: absolute;
+    left: 48%;
+    font-family: 'roboto', sans-serif;
+    font-size: 2rem;
+    top: 10rem;
+}
+
+.about {
+    position: absolute;
+    left: 40%;
+    font-family: 'roboto', sans-serif;
+    font-size: 1rem;
+    top: 20rem;    
+}
+
+.berserk_poster {
+    position: absolute;
+    left: 48%;
+    top: 30rem;
+}
+
+.vagabond_poster {
+    position: absolute;
+    left: 38%;
+    top: 30rem
+}
+
+.aot_poster {
+    positioN: absolute;
+    left: 58%;
+    top: 30rem;
+}
+
+nav {
+    color: black;
+}
+
+.top_three_shonen {
+    position: absolute;
+    left: 42%;
+    font-family: 'roboto', sans-serif;
+    font-size: 2rem;
+    top: 10rem;
+}
+
+.one_piece_poster {
+    position: absolute;
+    left: 46.5%;
+    top: 20rem;
+}
+
+.bleach_poster {
+    position: absolute;
+    left: 60%;
+    top: 20rem;    
+}
+
+.jojos_poster {
+    position: absolute;
+    left: 30%;
+    top: 20rem;   
+}
+
+.ajin_poster {
+    position: absolute;
+    left: 46.5%;
+    top: 20rem;
+}
+
+.griffith_poster {
+    position: absolute;
+    left: 60%;
+    top: 20rem;       
+}
+
+.musashi_poster {
+    position: absolute;
+    left: 30%;
+    top: 20rem;     
+}
+
+.slime_poster {
+    position: absolute;
+    left: 46.5%;
+    top: 20rem;
+}
+
+.shield_hero_poster {
+    position: absolute;
+    left: 30%;
+    top: 20rem;   
+}
+
+.sao_poster {
+    position: absolute;
+    left: 60%;
+    top: 20rem; 
+}
